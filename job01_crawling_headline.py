@@ -4,7 +4,7 @@ import re
 import pandas as pd
 import datetime
 
-category = ['Politics', 'Economic', 'Social', 'Culture', 'World', 'IT']
+category = ['Politiccs', 'Economic', 'Social', 'Culture', 'World', 'IT']
 df_titles = pd.DataFrame()
 
 for i in range(6):
